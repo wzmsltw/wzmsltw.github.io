@@ -37,7 +37,7 @@ xxx xxx xxx xxx xxx xxx
 <br/>
 <br/>
 </td>
-<td><img src="../assets/pics/LTW.jpg" title="Tianwei Lin" alt="Tianwei Lin" height="400"/> </td>
+<td><img src="../assets/pics/LTW.jpg" title="Tianwei Lin" alt="Tianwei Lin" height="800"/> </td>
 </tr>
 </table>
 
