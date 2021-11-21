@@ -35,7 +35,7 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 <br/>
 <br/>
 </td>
-<td><img src="../assets/pics/LTW.jpg" title="Tianwei Lin" alt="Tianwei Lin" height="800"/> </td>
+<td><img src="../assets/pics/LTW.jpg" title="Tianwei Lin" alt="Tianwei Lin" height="600"/> </td>
 </tr>
 </table>
 
@@ -97,8 +97,6 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 Tianwei Lin<br/>
 <div id="hide_email">
 Email: wzmsltw@gmail.com <br/>
-<a href="http://www.bu.edu/cs/">xxx</a><br/>
-<a href="http://www.bu.edu">xxx</a><br/>
 701 Naxian Road<br/>
 Shanghai<br/>
 China<br/><br/>
