@@ -64,6 +64,30 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 
 #### 2021
 
+<b>[5]</b> Songhua Liu*, <b>Tianwei Lin*</b>, Dongliang He, Fu Li, Ruifeng Deng, Xin Li, Errui Ding, Hao Wang. "Paint transformer: Feed forward neural painting with stroke prediction." Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2021 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Paint_Transformer_Feed_Forward_Neural_Painting_With_Stroke_Prediction_ICCV_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/PaintTransformer) 
+<td><img src="../pages/pub_pics/pic_2021_paint.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+
+<b>[5]</b> Songhua Liu, <b>Tianwei Lin</b>, Dongliang He, Fu Li, Meilinng Wang, Xin Li, Zhengxing Sun, Qiann Li, Errui Ding. "Adaattn: Revisit attention mechanism in arbitrary neural style transfer." Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2021 [![pdf](../icons16/pdf-icon.png)](http://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AdaAttN_Revisit_Attention_Mechanism_in_Arbitrary_Neural_Style_Transfer_ICCV_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/AdaAttN) 
+<td><img src="../pages/pub_pics/pic_2021_adaattnn.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[5]</b> <b>Tianwei Lin</b>, Zhuoqi Ma, Fu Li, Dongliang He, Xin Li, Errui Ding, NNannan Wang, Jie Li, Xinbo Gao. "Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2021 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Drafting_and_Revision_Laplacian_Pyramid_Network_for_Fast_High-Quality_Artistic_CVPR_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/PaddlePaddle/PaddleGAN) 
+<td><img src="../pages/pub_pics/pic_2021_lapstyle.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+
+<b>[5]</b> Weining Wang, <b>Tianwei Lin</b>, Dongliang He, Fu Li, Shilei Wen, Liang Wang, Jing Liu. "Semi-Supervised Temporal Action Proposal Generation via Exploiting 2-D Proposal Map." IEEE Transactions on Multimedia (TMM). 2021. 
+---
+<td>  </td>
+
+<b>[5]</b> Wenhao Wu, Dongliang He, <b>Tianwei Lin</b>, Fu Li, Chuang Gan, Errui Ding. "Mvfnet: Multi-view fusion network for efficient video recognition." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021 [![pdf](../icons16/pdf-icon.png)](https://www.aaai.org/AAAI21Papers/AAAI-1523.WuW.pdf) [![code](../icons16/github-icon.png)](https://github.com/whwu95/MVFNet) 
+---
+<td>  </td>
 
 #### 2020
 
@@ -71,7 +95,7 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 #### 2019
 
 <b>[5]</b> <b>Tianwei Lin</b>, Xiao Liu, Xin Li, Errui Ding, Shilei Wen. "BMN: Boundary Matching Network for Temporal Action Proposal Generation." International Conference on Computer Vision (ICCV). Seoul, Korea, 2019. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1907.09702) [![code](../icons16/github-icon.png)](https://github.com/PaddlePaddle/PaddleVideo) 
-<td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+<td><img src="../pages/pub_pics/pic_2019_bmn.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
@@ -79,21 +103,23 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 #### 2018
 
 <b>[4]</b> <b>Tianwei Lin</b>, Xu Zhao, Haisheng Su, Chongjing Wang, Ming Yang. "BSN: Boundary Sensitive Network for Temporal Action Proposal Generation." European Conference on Computer Vision (ECCV). Munich, Germany, 2018. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1806.02964) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/BSN-boundary-sensitive-network) 
-<td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+<td><img src="../pages/pub_pics/pic_2018_bsn.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 #### 2017
 
-<b>[3]</b> <b>Tianwei Lin</b>, Xu Zhao, Zheng Shou. "Single Shot Temporal Action Detection." ACM International Conference on Multimedia (ACMMM). Mountain View, U.S., 2017. 
-<td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+<b>[3]</b> <b>Tianwei Lin</b>, Xu Zhao, Zheng Shou. "Single Shot Temporal Action Detection." ACM International Conference on Multimedia (ACMMM). Mountain View, U.S., 2017. [![pdf](../icons16/pdf-icon.png)](https://wzmsltw.github.io/assets/pdf/acmmm_370.pdf) 
+<td><img src="../pages/pub_pics/pic_2017_ssad.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
-<b>[2]</b> <b>Tianwei Lin</b>, Xu Zhao, Zhaoxuan Fan. Temporal Action Localization with Two-Stream Segment-based RNN. IEEE International Conference on Image Processing (ICIP). Beijing, China, 2017.
-<td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+<b>[2]</b> <b>Tianwei Lin</b>, Xu Zhao, Zhaoxuan Fan. Temporal Action Localization with Two-Stream Segment-based RNN. IEEE International Conference on Image Processing (ICIP). Beijing, China, 2017. [![pdf](../icons16/pdf-icon.png)](https://wzmsltw.github.io/assets/pdf/icip_1520.pdf) 
+<td><img src="../pages/pub_pics/pic_2017_icip.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
+
+
 
 #### 2016
 
@@ -111,7 +137,7 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 <div class="span5">
 Tianwei Lin<br/>
 <div id="hide_email">
-Email: wzmsltw@gmail.com <br/>
+Email: lintianwei01@baidu.com <br/>
 701 Naxian Road<br/>
 Shanghai<br/>
 China<br/><br/>
