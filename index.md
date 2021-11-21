@@ -36,8 +36,8 @@ xxx xxx xxx xxx xxx xxx
 xxx xxx xxx xxx xxx xxx
 <br/>
 <br/>
-For more information, welcome to my <a href="https://scholar.harvard.edu/xidexia">previous webpage</a>.</td>
-<td><img src="../assets/pics/LTW.jpg" title="Tianwei Lin" alt="Tianwei Lin" height="600"/> </td>
+</td>
+<td><img src="../assets/pics/LTW.jpg" title="Tianwei Lin" alt="Tianwei Lin" height="400"/> </td>
 </tr>
 </table>
 

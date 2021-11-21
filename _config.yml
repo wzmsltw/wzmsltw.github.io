@@ -8,15 +8,13 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Xide Xia - CS @ Boston University
+title : Tianwei Lin
 author :
-  name : Xide Xia - CS @ Boston University
-  email : xidexia@bu.edu
-  github : xidexia
-  twitter : xidexia
-  feedburner : nil
+  name : Tianwei Lin
+  email : wzmsltw@gmail.com
+  github : wzmsltw
 
-production_url : http://xidexia.github.io
+production_url : http://wzmsltw.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
