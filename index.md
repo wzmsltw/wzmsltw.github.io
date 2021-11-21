@@ -52,7 +52,7 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 <LI>One paper accepted to ICCV 2019.</LI>
 <LI>One paper accepted to ECCV 2018.</LI>
 <LI>Our team SJTU won the <b>first place</b> in  <b>Temporal Action Localization</b> task and the <b>second place</b> in <b>Temporal Action Proposal</b> task of <a href="http://activity-net.org/challenges/2018/index.html">ActivityNet Large Scale Activity Recognition Challenge 2018</a>! This year the challenge is hosted together with CVPR'18.</LI>
-<LI>I won the first place in  <a href=https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31>Baidu Video Highlight Detection Challenge</a> .</LI>
+<LI>I won the first place in  <a href="https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31">Baidu Video Highlight Detection Challenge</a> .</LI>
 <LI>Our team SJTU&Columbia won the <b>first place</b> in both <b>Temporal Action Proposal</b> task and <b>Temporal Action Localization</b> task of <a href="http://activity-net.org/challenges/2017/index.html">ActivityNet Large Scale Activity Recognition Challenge 2017</a>! This year the challenge is hosted together with CVPR'17.</LI>
 
 <LI>One paper accepted to ACMMM 2017.</LI>
@@ -65,11 +65,25 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 #### 2021
 
 
-<b>[1]</b> <b>Tianwei Lin</b>, Xu Zhao, Haisheng Su, Chongjing Wang, Ming Yang. "BSN: Boundary Sensitive Network for Temporal Action Proposal Generation." European Conference on Computer Vision (ECCV). Munich, Germany, 2018. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1806.02964) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/BSN-boundary-sensitive-network) 
+#### 2020
+
+
+#### 2019
+
+<b>[5]</b> <b>Tianwei Lin</b>, Xiao Liu, Xin Li, Errui Ding, Shilei Wen. "BMN: Boundary Matching Network for Temporal Action Proposal Generation." International Conference on Computer Vision (ICCV). Seoul, Korea, 2019. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1907.09702) [![code](../icons16/github-icon.png)](https://github.com/PaddlePaddle/PaddleVideo) 
 <td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
+
+#### 2018
+
+<b>[4]</b> <b>Tianwei Lin</b>, Xu Zhao, Haisheng Su, Chongjing Wang, Ming Yang. "BSN: Boundary Sensitive Network for Temporal Action Proposal Generation." European Conference on Computer Vision (ECCV). Munich, Germany, 2018. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1806.02964) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/BSN-boundary-sensitive-network) 
+<td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+#### 2017
 
 <b>[3]</b> <b>Tianwei Lin</b>, Xu Zhao, Zheng Shou. "Single Shot Temporal Action Detection." ACM International Conference on Multimedia (ACMMM). Mountain View, U.S., 2017. 
 <td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
@@ -81,6 +95,7 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 ---
 <td>  </td>
 
+#### 2016
 
 <b>[1]</b> Longhai Zhao, Hao Wang, <b>Tianwei Lin</b>, Genliang Chen, Lingyu Kong. "Conceptual Design and Kinematic Analysis of the Diamobot: A Homogeneous Modular Robot." Advances in Reconfigurable Mechanisms and Robots II. Springer, Cham, 2016. 693-703. [![pdf](../icons16/pdf-icon.png)](https://www.researchgate.net/profile/Longhai-Zhao/publication/279456224_Conceptual_Design_and_Kinematic_Analysis_of_the_Diamobot_A_Homogeneous_Modular_Robot/links/55935bb808ae16f493ee5d01/Conceptual-Design-and-Kinematic-Analysis-of-the-Diamobot-A-Homogeneous-Modular-Robot.pdf) 
 <td><img src="../pages/pub_pics/pic_2016_robot.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
