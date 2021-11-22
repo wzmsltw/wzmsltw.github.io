@@ -82,14 +82,23 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 
 
 <b>[5]</b> Weining Wang, <b>Tianwei Lin</b>, Dongliang He, Fu Li, Shilei Wen, Liang Wang, Jing Liu. "Semi-Supervised Temporal Action Proposal Generation via Exploiting 2-D Proposal Map." IEEE Transactions on Multimedia (TMM). 2021. 
+<td><img src="../pages/pub_pics/pic_2021_semi.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 <b>[5]</b> Wenhao Wu, Dongliang He, <b>Tianwei Lin</b>, Fu Li, Chuang Gan, Errui Ding. "Mvfnet: Multi-view fusion network for efficient video recognition." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021 [![pdf](../icons16/pdf-icon.png)](https://www.aaai.org/AAAI21Papers/AAAI-1523.WuW.pdf) [![code](../icons16/github-icon.png)](https://github.com/whwu95/MVFNet) 
+<td><img src="../pages/pub_pics/pic_2021_mvfnet.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 #### 2020
+
+<b>[5]</b> Xin Li, <b>Tianwei Lin</b>, Xiao Liu, Wangmeng Zuo, Chao Li, Xiang Long, Dongliang He, Fu Li, Shilei Wen,  Chuang Gan. "Deep concept-wise temporal convolutional networks for action localization." Proceedings of the 28th ACM International Conference on Multimedia (ACMMM). 2020 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1908.09442) 
+<td><img src="../pages/pub_pics/pic_2020_ctcn.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+
 
 
 #### 2019
