@@ -45,6 +45,7 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 ---
 <h4><a name="news"></a>What's New</h4>
 
+<LI>One paper accepted to TPAMI.</LI>
 <LI>Two paper accepted to ICCV 2021.</LI>
 <LI>One paper accepted to CVPR 2021.</LI>
 <LI>One paper accepted to ACMMM 2020.</LI>
@@ -64,42 +65,45 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 
 #### 2021
 
-<b>[5]</b> Songhua Liu*, <b>Tianwei Lin*</b>, Dongliang He, Fu Li, Ruifeng Deng, Xin Li, Errui Ding, Hao Wang. "Paint transformer: Feed forward neural painting with stroke prediction." Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2021 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Paint_Transformer_Feed_Forward_Neural_Painting_With_Stroke_Prediction_ICCV_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/PaintTransformer) 
+<b>[12]</b> Songhua Liu*, <b>Tianwei Lin*</b>, Dongliang He, Fu Li, Ruifeng Deng, Xin Li, Errui Ding, Hao Wang. "Paint transformer: Feed forward neural painting with stroke prediction." Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2021 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Paint_Transformer_Feed_Forward_Neural_Painting_With_Stroke_Prediction_ICCV_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/PaintTransformer) 
 <td><img src="../pages/pub_pics/pic_2021_paint.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 
-<b>[5]</b> Songhua Liu, <b>Tianwei Lin</b>, Dongliang He, Fu Li, Meilinng Wang, Xin Li, Zhengxing Sun, Qiann Li, Errui Ding. "Adaattn: Revisit attention mechanism in arbitrary neural style transfer." Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2021 [![pdf](../icons16/pdf-icon.png)](http://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AdaAttN_Revisit_Attention_Mechanism_in_Arbitrary_Neural_Style_Transfer_ICCV_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/AdaAttN) 
+<b>[11]</b> Songhua Liu, <b>Tianwei Lin</b>, Dongliang He, Fu Li, Meilinng Wang, Xin Li, Zhengxing Sun, Qiann Li, Errui Ding. "Adaattn: Revisit attention mechanism in arbitrary neural style transfer." Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2021 [![pdf](../icons16/pdf-icon.png)](http://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AdaAttN_Revisit_Attention_Mechanism_in_Arbitrary_Neural_Style_Transfer_ICCV_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/wzmsltw/AdaAttN) 
 <td><img src="../pages/pub_pics/pic_2021_adaattnn.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
-<b>[5]</b> <b>Tianwei Lin</b>, Zhuoqi Ma, Fu Li, Dongliang He, Xin Li, Errui Ding, NNannan Wang, Jie Li, Xinbo Gao. "Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2021 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Drafting_and_Revision_Laplacian_Pyramid_Network_for_Fast_High-Quality_Artistic_CVPR_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/PaddlePaddle/PaddleGAN) 
+<b>[10]</b> <b>Tianwei Lin</b>, Zhuoqi Ma, Fu Li, Dongliang He, Xin Li, Errui Ding, NNannan Wang, Jie Li, Xinbo Gao. "Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2021 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Drafting_and_Revision_Laplacian_Pyramid_Network_for_Fast_High-Quality_Artistic_CVPR_2021_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/PaddlePaddle/PaddleGAN) 
 <td><img src="../pages/pub_pics/pic_2021_lapstyle.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 
-<b>[5]</b> Weining Wang, <b>Tianwei Lin</b>, Dongliang He, Fu Li, Shilei Wen, Liang Wang, Jing Liu. "Semi-Supervised Temporal Action Proposal Generation via Exploiting 2-D Proposal Map." IEEE Transactions on Multimedia (TMM). 2021. 
+<b>[9]</b> Weining Wang, <b>Tianwei Lin</b>, Dongliang He, Fu Li, Shilei Wen, Liang Wang, Jing Liu. "Semi-Supervised Temporal Action Proposal Generation via Exploiting 2-D Proposal Map." IEEE Transactions on Multimedia (TMM). 2021. 
 <td><img src="../pages/pub_pics/pic_2021_semi.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
-<b>[5]</b> Wenhao Wu, Dongliang He, <b>Tianwei Lin</b>, Fu Li, Chuang Gan, Errui Ding. "Mvfnet: Multi-view fusion network for efficient video recognition." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021 [![pdf](../icons16/pdf-icon.png)](https://www.aaai.org/AAAI21Papers/AAAI-1523.WuW.pdf) [![code](../icons16/github-icon.png)](https://github.com/whwu95/MVFNet) 
+
+<b>[8]</b> Le Yang, Junwei Han, Tao Zhao, <b>Tianwei Lin</b>, Dingwen Zhang, Jianxin Chen. "Background-Click Supervision for Temporal Action Localization." Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2021. 
+<td><img src="../pages/pub_pics/pic_2021_back.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[7]</b> Wenhao Wu, Dongliang He, <b>Tianwei Lin</b>, Fu Li, Chuang Gan, Errui Ding. "Mvfnet: Multi-view fusion network for efficient video recognition." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021 [![pdf](../icons16/pdf-icon.png)](https://www.aaai.org/AAAI21Papers/AAAI-1523.WuW.pdf) [![code](../icons16/github-icon.png)](https://github.com/whwu95/MVFNet) 
 <td><img src="../pages/pub_pics/pic_2021_mvfnet.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
 #### 2020
 
-<b>[5]</b> Xin Li, <b>Tianwei Lin</b>, Xiao Liu, Wangmeng Zuo, Chao Li, Xiang Long, Dongliang He, Fu Li, Shilei Wen,  Chuang Gan. "Deep concept-wise temporal convolutional networks for action localization." Proceedings of the 28th ACM International Conference on Multimedia (ACMMM). 2020 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1908.09442) 
+<b>[6]</b> Xin Li, <b>Tianwei Lin</b>, Xiao Liu, Wangmeng Zuo, Chao Li, Xiang Long, Dongliang He, Fu Li, Shilei Wen,  Chuang Gan. "Deep concept-wise temporal convolutional networks for action localization." Proceedings of the 28th ACM International Conference on Multimedia (ACMMM). 2020 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/abs/1908.09442) 
 <td><img src="../pages/pub_pics/pic_2020_ctcn.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
-
-
-
 
 #### 2019
 
@@ -107,7 +111,6 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 <td><img src="../pages/pub_pics/pic_2019_bmn.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
-
 
 #### 2018
 
@@ -127,7 +130,6 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 <td><img src="../pages/pub_pics/pic_2017_icip.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
-
 
 
 #### 2016
