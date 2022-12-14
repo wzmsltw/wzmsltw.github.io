@@ -67,17 +67,17 @@ My research interests include: Autonomous Driving, Cross-Modal Generation, Style
 
 #### 2022
 
-<b>[15]</b> <b>Tianwei Lin*</b>, Honglin Lin, Fu Li, Dongliang He, Wenhao Wu, Meiling Wang, Xin Li, Yong Liu. "AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-realistic Style Transfer." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2023 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.01567.pdf)
+<b>[15]</b> <b>Tianwei Lin*</b>, Honglin Lin*, Fu Li, Dongliang He, Wenhao Wu, Meiling Wang, Xin Li, Yong Liu. "AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-realistic Style Transfer." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2023 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.01567.pdf)
 <td><img src="../pages/pub_pics/pic_2022_adacm.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
-<b>[14]</b> Zipeng Xu, <b>Tianwei Lin*</b>, Hao Tang, Fu Li, Dongliang He, Nicu Sebe, Radu Timofte, Luc Van Gool, Errui Ding. "Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Predict_Prevent_and_Evaluate_Disentangled_Text-Driven_Image_Manipulation_Empowered_by_CVPR_2022_paper.pdf)
+<b>[14]</b> Zipeng Xu, <b>Tianwei Lin</b>, Hao Tang, Fu Li, Dongliang He, Nicu Sebe, Radu Timofte, Luc Van Gool, Errui Ding. "Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Predict_Prevent_and_Evaluate_Disentangled_Text-Driven_Image_Manipulation_Empowered_by_CVPR_2022_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/zipengxuc/ppe) 
 <td><img src="../pages/pub_pics/pic_2022_ppe.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
-<b>[13]</b> Zhihong Pan, Baopu Li, Dongliang He, Mingde Yao, Wenhao Wu, <b>Tianwei Lin*</b>, Xin Li, Errui Ding. "Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Towards_Bidirectional_Arbitrary_Image_Rescaling_Joint_Optimization_and_Cycle_Idempotence_CVPR_2022_paper.pdf)
+<b>[13]</b> Zhihong Pan, Baopu Li, Dongliang He, Mingde Yao, Wenhao Wu, <b>Tianwei Lin</b>, Xin Li, Errui Ding. "Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Towards_Bidirectional_Arbitrary_Image_Rescaling_Joint_Optimization_and_Cycle_Idempotence_CVPR_2022_paper.pdf)
 <td><img src="../pages/pub_pics/pic_2022_rescaling.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
@@ -168,8 +168,7 @@ My research interests include: Autonomous Driving, Cross-Modal Generation, Style
 <div class="span5">
 Tianwei Lin<br/>
 <div id="hide_email">
-Email: lintianwei01@baidu.com <br/>
-701 Naxian Road<br/>
+Email: wzmsltw@gmail.com <br/>
 Shanghai<br/>
 China<br/><br/>
 

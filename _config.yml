@@ -8,10 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Tianwei Lin - Baidu VIS
+title : Tianwei Lin - Horizon Robotics
 author :
-  name : Tianwei Lin - Baidu VIS
-  email : lintianwei01@baidu.com
+  name : Tianwei Lin - Horizon Robotics
+  email : wzmsltw@gmail.com
   github : wzmsltw
 
 production_url : http://wzmsltw.github.io
