@@ -27,11 +27,11 @@ Last Update: November, 21<sup>th</sup>, 2021.
 <div class="span8">
 <table>
 <tr>
-<td> I am working at Department of Computer Vision Technology (VIS) of BAIDU as a computer vision researcher. I received my master degree at Shanghai Jiao Tong University in 2019, advised by Prof. Xu Zhao. I received my B.Eng from School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. 
+<td> I am working at Horizon Robotics as a computer vision researcher. I received my master degree at Shanghai Jiao Tong University in 2019, advised by Prof. Xu Zhao. I received my B.Eng from School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. 
 
 <br/>
 <br/>
-My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temporal Action Detection and Action Recognition.
+My research interests include: Autonomous Driving, Cross-Modal Generation, Style Transfer, Temporal Action Detection and Action Recognition.
 <br/>
 <br/>
 </td>
@@ -45,6 +45,9 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 ---
 <h4><a name="news"></a>What's New</h4>
 
+<LI>One paper accepted to AAAI 2023.</LI>
+<LI>Our team (Baidu) won the <b>first place</b> in the NTIRE 2022 Image Inpainting Challenge (Track 2)!</LI>
+<LI>Two paper accepted to CVPR 2022.</LI>
 <LI>One paper accepted to TPAMI.</LI>
 <LI>Two paper accepted to ICCV 2021.</LI>
 <LI>One paper accepted to CVPR 2021.</LI>
@@ -61,6 +64,23 @@ My research interests include: GAN, Cross-Modal Generation, Style Transfer, Temp
 
 ---
 <h4><a name="publication"></a>Publications</h4>
+
+#### 2022
+
+<b>[15]</b> <b>Tianwei Lin*</b>, Honglin Lin, Fu Li, Dongliang He, Wenhao Wu, Meiling Wang, Xin Li, Yong Liu. "AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-realistic Style Transfer." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2023 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.01567.pdf)
+<td><img src="../pages/pub_pics/pic_2022_adacm.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[14]</b> Zipeng Xu, <b>Tianwei Lin*</b>, Hao Tang, Fu Li, Dongliang He, Nicu Sebe, Radu Timofte, Luc Van Gool, Errui Ding. "Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Predict_Prevent_and_Evaluate_Disentangled_Text-Driven_Image_Manipulation_Empowered_by_CVPR_2022_paper.pdf)
+<td><img src="../pages/pub_pics/pic_2022_ppe.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[13]</b> Zhihong Pan, Baopu Li, Dongliang He, Mingde Yao, Wenhao Wu, <b>Tianwei Lin*</b>, Xin Li, Errui Ding. "Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2022 [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Towards_Bidirectional_Arbitrary_Image_Rescaling_Joint_Optimization_and_Cycle_Idempotence_CVPR_2022_paper.pdf)
+<td><img src="../pages/pub_pics/pic_2022_rescaling.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
 
 
 #### 2021
