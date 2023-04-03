@@ -20,7 +20,7 @@ Welcome! You're the <a href='http://www.counter12.com'><img src='https://www.cou
 
 
 
-Last Update: November, 21<sup>th</sup>, 2021.
+Last Update: April, 3<sup>rd</sup>, 2023.
 
 ---
 <div class="container">
@@ -45,6 +45,8 @@ My research interests include: Autonomous Driving, Cross-Modal Generation, Style
 ---
 <h4><a name="news"></a>What's New</h4>
 
+<LI>Our work UniAD is selected as an award candidate at CVPR 2023 (12 out of 9155 submissions).</LI>
+<LI>Three papers accepted to CVPR 2023.</LI>
 <LI>One paper accepted to AAAI 2023.</LI>
 <LI>Our team (Baidu) won the <b>first place</b> in the NTIRE 2022 Image Inpainting Challenge (Track 2)!</LI>
 <LI>Two paper accepted to CVPR 2022.</LI>
@@ -65,9 +67,28 @@ My research interests include: Autonomous Driving, Cross-Modal Generation, Style
 ---
 <h4><a name="publication"></a>Publications</h4>
 
+#### 2023
+
+<b>[18]</b> Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, <b>Tianwei Lin</b>, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li. "Planning-oriented Autonomous Driving." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.10156.pdf)[![code](../icons16/github-icon.png)](https://github.com/OpenDriveLab/UniAD)
+<td><img src="../pages/pub_pics/pic_2023_uniad.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[17]</b> Yueming Lyu, <b>Tianwei Lin</b>, Fu Li, Dongliang He, Jing Dong, Tieniu Tan. "DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2303.06285.pdf)[![code](../icons16/github-icon.png)](https://github.com/Yueming6568/DeltaEdit)
+<td><img src="../pages/pub_pics/pic_2023_deltaedit.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[16]</b> Hao Tang, Songhua Liu, <b>Tianwei Lin</b>, Shaoli Huang, Fu Li, Dongliang He, Xinchao Wang. "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. 
+<td><img src="../pages/pub_pics/pic_2023_style.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+
+
 #### 2022
 
-<b>[15]</b> <b>Tianwei Lin*</b>, Honglin Lin*, Fu Li, Dongliang He, Wenhao Wu, Meiling Wang, Xin Li, Yong Liu. "AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-realistic Style Transfer." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2023 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.01567.pdf)
+<b>[15]</b> <b>Tianwei Lin\*</b>, Honglin Lin\*, Fu Li, Dongliang He, Wenhao Wu, Meiling Wang, Xin Li, Yong Liu. "AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-realistic Style Transfer." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2023 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.01567.pdf)
 <td><img src="../pages/pub_pics/pic_2022_adacm.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
