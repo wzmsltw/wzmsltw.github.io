@@ -27,7 +27,7 @@ Last Update: April, 3<sup>rd</sup>, 2023.
 <div class="span8">
 <table>
 <tr>
-<td> I am working at Horizon Robotics as a computer vision researcher. I received my master degree at Shanghai Jiao Tong University in 2019, advised by Prof. Xu Zhao. I received my B.Eng from School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. 
+<td> I am working at Wuhan University and Horizon Robotics Joint Laboratory as a computer vision researcher. I received my master degree at Shanghai Jiao Tong University in 2019, advised by Prof. Xu Zhao. I received my B.Eng from School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. 
 
 <br/>
 <br/>
