@@ -20,18 +20,18 @@ Welcome! You're the <a href='http://www.counter12.com'><img src='https://www.cou
 
 
 
-Last Update: April, 3<sup>rd</sup>, 2023.
+Last Update: July, 16<sup>rd</sup>, 2024.
 
 ---
 <div class="container">
 <div class="span8">
 <table>
 <tr>
-<td> I am working at Wuhan University and Horizon Robotics Joint Laboratory as a computer vision researcher. I received my master degree at Shanghai Jiao Tong University in 2019, advised by Prof. Xu Zhao. I received my B.Eng from School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. 
+<td> I work at Horizon Robotics as a Computer Vision Research Scientist, leading a research team to develop new technologies related to autonomous driving and robotics. I received my master degree at Shanghai Jiao Tong University in 2019, advised by Prof. Xu Zhao. I received my B.Eng from School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. 
 
 <br/>
 <br/>
-My research interests include: Autonomous Driving, Cross-Modal Generation, Style Transfer, Temporal Action Detection and Action Recognition.
+My research interests include: Autonomous Driving, Embodied AI, Cross-Modal Understanding and Generation.
 <br/>
 <br/>
 </td>
@@ -45,7 +45,9 @@ My research interests include: Autonomous Driving, Cross-Modal Generation, Style
 ---
 <h4><a name="news"></a>What's New</h4>
 
-<LI>Our work UniAD is selected as an award candidate at CVPR 2023 (12 out of 9155 submissions).</LI>
+<LI>One paper accepted to IROS 2024 as oral presentation.</LI>
+<LI>Two paper accepted to CVPR 2024.</LI>
+<LI>Our work UniAD wins the best paper award at CVPR 2023.</LI>
 <LI>Three papers accepted to CVPR 2023.</LI>
 <LI>One paper accepted to AAAI 2023.</LI>
 <LI>Our team (Baidu) won the <b>first place</b> in the NTIRE 2022 Image Inpainting Challenge (Track 2)!</LI>
@@ -67,19 +69,51 @@ My research interests include: Autonomous Driving, Cross-Modal Generation, Style
 ---
 <h4><a name="publication"></a>Publications</h4>
 
+#### 2024
+
+<b>[25]</b> Chenhongyi Yang, <b>Tianwei Lin</b>, Lichao Huang, Elliot J Crowley. "WidthFormer: Toward Efficient Transformer-based BEV View Transformation." IROS. 2024. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2401.03836) [![code](../icons16/github-icon.png)](https://github.com/ChenhongyiYang/WidthFormer) 
+<td><img src="../pages/pub_pics/pic_2024_widthformer.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[24]</b> Qin Guo, <b>Tianwei Lin</b>. "Focus on your instruction: Fine-grained and multi-instruction image editing by attention modulation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024. [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Focus_on_Your_Instruction_Fine-grained_and_Multi-instruction_Image_Editing_by_CVPR_2024_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/guoqincode/Focus-on-Your-Instruction) 
+<td><img src="../pages/pub_pics/pic_2024_foi.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[23]</b> Haoyi Jiang, Tianheng Cheng, Naiyu Gao, Haoyang Zhang, <b>Tianwei Lin</b>, Wenyu Liu, Xinggang Wang. "Symphonize 3d semantic scene completion with contextual instance queries." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024. [![pdf](../icons16/pdf-icon.png)](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_Symphonize_3D_Semantic_Scene_Completion_with_Contextual_Instance_Queries_CVPR_2024_paper.pdf) [![code](../icons16/github-icon.png)](https://github.com/hustvl/Symphonies) 
+<td><img src="../pages/pub_pics/pic_2024_symp.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[22]</b> Longzhong Lin, Xuewu Lin, <b>Tianwei Lin</b>, Lichao Huang, Rong Xiong, Yue Wang. "EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2024. [![pdf](../icons16/pdf-icon.png)](https://ojs.aaai.org/index.php/AAAI/article/view/28130/28263)
+<td><img src="../pages/pub_pics/pic_2024_eda.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
 #### 2023
 
-<b>[18]</b> Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, <b>Tianwei Lin</b>, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li. "Planning-oriented Autonomous Driving." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.10156.pdf)[![code](../icons16/github-icon.png)](https://github.com/OpenDriveLab/UniAD)
+<b>[21]</b> Xuewu Lin, Zixiang Pei, <b>Tianwei Lin</b>, Lichao Huang, Zhizhong Su. "Sparse4d v3: Advancing end-to-end 3d detection and tracking." arxiv 2023. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2311.11722.pdf) [![code](../icons16/github-icon.png)](https://github.com/HorizonRobotics/Sparse4D) 
+<td><img src="../pages/pub_pics/pic_2023_sparse4dv3.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[20]</b> Xuewu Lin, <b>Tianwei Lin</b>, Zixiang Pei, Lichao Huang, Zhizhong Su. "Sparse4D v2: Recurrent Temporal Fusion with Sparse Model." arxiv 2023. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2305.14018.pdf) [![code](../icons16/github-icon.png)](https://github.com/HorizonRobotics/Sparse4D) 
+<td><img src="../pages/pub_pics/pic_2023_sparse4dv2.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
+
+<b>[19]</b> Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, <b>Tianwei Lin</b>, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li. "Planning-oriented Autonomous Driving." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. <b>Best paper award</b>. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.10156.pdf)[![code](../icons16/github-icon.png)](https://github.com/OpenDriveLab/UniAD)
 <td><img src="../pages/pub_pics/pic_2023_uniad.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
-<b>[17]</b> Yueming Lyu, <b>Tianwei Lin</b>, Fu Li, Dongliang He, Jing Dong, Tieniu Tan. "DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2303.06285.pdf)[![code](../icons16/github-icon.png)](https://github.com/Yueming6568/DeltaEdit)
+<b>[18]</b> Yueming Lyu, <b>Tianwei Lin</b>, Fu Li, Dongliang He, Jing Dong, Tieniu Tan. "DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2303.06285.pdf)[![code](../icons16/github-icon.png)](https://github.com/Yueming6568/DeltaEdit)
 <td><img src="../pages/pub_pics/pic_2023_deltaedit.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
 
-<b>[16]</b> Hao Tang, Songhua Liu, <b>Tianwei Lin</b>, Shaoli Huang, Fu Li, Dongliang He, Xinchao Wang. "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. 
+<b>[17]</b> Hao Tang, Songhua Liu, <b>Tianwei Lin</b>, Shaoli Huang, Fu Li, Dongliang He, Xinchao Wang. "Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023. 
 <td><img src="../pages/pub_pics/pic_2023_style.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
 ---
 <td>  </td>
@@ -87,6 +121,11 @@ My research interests include: Autonomous Driving, Cross-Modal Generation, Style
 
 
 #### 2022
+
+<b>[16]</b> Xuewu Lin, <b>Tianwei Lin</b>, Zixiang Pei, Lichao Huang, Zhizhong Su. "Sparse4d: Multi-view 3d object detection with sparse spatial-temporal fusion." arxiv 2022. [![code](../icons16/github-icon.png)](https://github.com/zipengxuc/ppe) [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2211.10581.pdf) [![code](../icons16/github-icon.png)](https://github.com/HorizonRobotics/Sparse4D) 
+<td><img src="../pages/pub_pics/pic_2022_sparse4d.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
+---
+<td>  </td>
 
 <b>[15]</b> <b>Tianwei Lin\*</b>, Honglin Lin\*, Fu Li, Dongliang He, Wenhao Wu, Meiling Wang, Xin Li, Yong Liu. "AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-realistic Style Transfer." Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2023 [![pdf](../icons16/pdf-icon.png)](https://arxiv.org/pdf/2212.01567.pdf)
 <td><img src="../pages/pub_pics/pic_2022_adacm.png" title="vst_teaser.png" alt="vst_teaser.png" height="200"/> </td>
